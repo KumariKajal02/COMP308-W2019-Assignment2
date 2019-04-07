@@ -1,5 +1,5 @@
 module.exports = {
    //"URI" : "mongodb://localhost/test",
-    "URI" : "mongodb://thomas:a123456@ds060977.mlab.com:60977/comp308-w2019-lesson10b",
+    "URI" : "mongodb://kajal:kajal123@cluster0-shard-00-00-qkyf8.mongodb.net:27017,cluster0-shard-00-01-qkyf8.mongodb.net:27017,cluster0-shard-00-02-qkyf8.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true",
     "secret": "SomeSecret"
 }
